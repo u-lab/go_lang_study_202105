@@ -5,4 +5,7 @@ import "fmt"
 func HelloWorld() {
 	// Println でも出力できる
 	fmt.Println("Hello World! My package is Service.")
+
+	s := "Hello World"
+	fmt.Println(s)
 }
