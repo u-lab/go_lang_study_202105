@@ -1,4 +1,4 @@
-# Practice GoLang 202105
+# GoLang Study 202105
 
 https://golang.org/
 
